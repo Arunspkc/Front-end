@@ -1,0 +1,39 @@
+.arun{
+    
+    background-color : #f2f2f2;
+    width: 250px;
+    border-radius: 10px;
+    text-decoration: solid;
+    padding: 20px;
+    margin: 20px;
+
+}
+.nura{
+    background-color : #f2f2f2;
+    width: 250px;
+    border-radius: 10px;
+    text-decoration: solid;
+    padding: 20px;
+    margin: 20px;
+
+
+}
+body{
+    background-color: cornsilk;
+
+}
+#fixed{
+    background-color: aqua;
+    padding: 10px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    border-radius: 40px;
+    
+    
+}
+#sticky{
+    background-color: aqua;
+    position: sticky;
+    top: 0;
+}

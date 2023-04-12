@@ -1,0 +1,149 @@
+.testmonial{
+
+    background-color: aqua;
+    padding: 20px;
+    width: 650px;
+    max-width: 400px;
+   /* border: 10px solid;*/
+   /* border-style: dashed;*/
+
+   text-decoration: underline;
+   letter-spacing: 0.5px;
+   text-align: justify;
+   word-spacing: 10px;
+   text-transform: capitalize;
+   
+
+
+}
+/*
+.links{
+    color: white;
+    text-align: justify;
+    background-color: rgb(117, 87, 202);
+}
+.links a {
+    color: lime;
+}
+.links a:link {
+    color: red;
+}
+.links a:visited{
+    color: green;
+}
+.links a:hover{
+    color: hotpink;
+}
+.links a:active{
+    color: blue;
+}
+.facebook{
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius:8px;
+    background-color:#4267B2;
+}
+.google{
+    color: #fff;
+    padding:10px;
+    border: none;
+    border-radius:8px;
+}
+ol{
+    color: #fff;
+    padding: 20px;
+    background-color: lime;
+    list-style-position: inside;
+    
+
+}
+ol li{
+    background-color: #021;
+    padding: 20px;
+    margin-left: 30px;
+}
+*/
+table{
+    width: 100%;
+    background-color: rgb(136, 87, 182);
+    
+    /*border-collapse: collapse;*/
+    text-align: center;
+}
+thead{
+    padding: 15px;
+    font-size: 20px;
+    background-color: blue;
+}
+td{
+    padding: 12px;
+
+
+}
+tr:hover{
+    background-color: #f262f2;
+
+}
+tr:nth-child(even){
+    background-color: #f262f2;
+
+}
+div{
+    background-color: #7b6ec4;
+}
+ul li a{
+    color:green;
+    
+}
+li{
+    display: inline;
+    margin-right: 45px;
+}
+.hidden{
+    display: none;
+   /* visibility: hidden;*/
+}
+.mt-5{
+ margin-top: 50px;
+}
+.static{
+    position: static;
+    border: 3px solid #73ad21;
+}
+.relative{
+    position: relative;
+    left: 20%;
+    border: 3px solid #73ad21;
+}
+.fixed{
+    position: fixed;
+    left: 50%;
+    border:3px solid #73ad21;
+    padding: 30px;
+    background-color: #7b6ec4;
+}
+.relatives{
+    left: 30px;
+    width: 450px;
+    height: 450px;
+    position: relatives;
+    border:3px solid #73ad21;
+
+}
+.absolute{
+    top: 80%;
+    right: 0;
+    position: absolute;
+    border:3px solid #73ad21;
+}
+.stickyy{
+    position: sticky;
+    top: 0;
+    position: -webkit-sticky;
+    border:3px solid #73ad21;
+    padding: 20px;
+    background-color: #73ad21;
+
+
+}

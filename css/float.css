@@ -1,0 +1,141 @@
+/*.float p{
+    width: 25%;
+    background-color: aqua;
+    float: left; 
+    padding: 10px;
+    margin-left: 10px;
+    
+    
+
+}
+.float p:nth-child(4){
+    clear: none;
+}
+*/
+/*
+
+.para1{
+    background-color: aqua;
+     
+}
+.para2{
+    background-color: brown;
+}
+.para3{
+    background-color: blueviolet;
+}
+@media all and(min-width:401px){
+    .container p{
+        width: 20%;
+        float: left;
+        padding: 10px;
+       
+
+}
+}
+.para3{
+    background-color: red;
+
+}
+@media print{
+    body{
+        /*background-color: none;*/
+        /*  
+        
+.hero{
+    background-color: hotpink;
+    padding: 20px;
+    
+    color: white;
+}
+.hero img{
+    float: left;
+    margin-right: 10px;
+}
+#folat-example div{
+    width: 100px;
+    padding: 20px;
+    margin: 10px 0;
+    text-align: center;
+}
+.green{
+    background-color: #ff2aff;
+    float: left;
+    
+
+}
+.yellow{
+    background-color: #2ab452;
+    float: left;
+}
+.red{
+    background-color: #999;
+    float: left;
+}
+
+
+
+.nave{
+    background-color: aqua;
+    margin-bottom: 10px;
+}
+.menu{
+    background-color: brown;
+    width: 33.33%;
+    height: 200px;
+    float: left;
+}
+.about{
+    background-color: coral;
+    width: 33.33%;
+    height: 200px;
+    float: left;
+}
+.tablet{
+    background-color: darkgoldenrod;
+    width: 33.33%;
+    height: 200px;
+    float: left;
+}
+.footer{
+    
+    
+    background-color: lime;
+    clear: both;
+    
+    
+}
+  
+.web-layout >div{
+    text-align: center;
+    padding: 20px 0;
+   
+
+     
+
+}
+*/
+/*  
+.col p{
+    width: 30%;
+    height: 30%;
+    float: right;
+    padding-left: 30px;
+    
+    
+}
+.col p:nth-child(4){
+    clear: right;
+}
+ */
+.container{
+    
+    display: grid;
+    grid-template-columns:30% 15% 15%;
+    gap: 20px;
+}
+ .para{
+    background-color: steelblue;
+    padding: 20px;
+
+ }

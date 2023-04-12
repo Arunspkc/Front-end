@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.flex div{
+    
+    width: 200px;
+    background-color: aqua;
+    margin: 20px;
+}
+   
+ 

@@ -1,0 +1,103 @@
+
+body{
+    background-color: #FAF4F4;
+}
+
+
+.icon{
+    float: left;
+    padding-left: 10px;
+    border: 3px solid #aa8a8a62;
+    justify-content: center;
+    margin: 30px;
+    border-radius: 5px;
+    outline: 2px solid white;
+    
+ 
+}
+.lion{
+    float: left;
+}
+.btn{
+    float: right;
+    padding-right: 30px;
+    margin: 30px;
+}
+.btn i{
+    border: 2px solid #aa8a8a62;
+    background-color: black;
+    color: white;
+    outline: 2px solid black;
+    margin-right: 15px;
+    
+
+}
+
+.btn button{
+
+ border-radius: 05px;
+ padding: 10px;
+ color: white;
+ background-color: green;
+ box-sizing: 10px;
+ box-shadow: none;
+}
+.btn button:hover{
+    background-color: greenyellow;
+
+}
+    
+
+
+.page1{
+    display: grid;
+    grid-template-columns: repeat(2,50%);
+    gap: 20px;
+    margin-bottom: 20%;
+    justify-content: initial;
+   
+    }
+.page1 h1{
+    display: grid;
+
+    
+}
+.page1 button{
+    border-radius: 10px;
+}
+.page2{
+    width: 100%;
+    background-color: bisque;
+    display: grid;
+    grid-template-columns: repeat(3,30%);
+
+}
+.pg {
+    
+  
+    margin: 50px;
+}
+.pg3{
+    display: grid;
+    grid-template-columns:repeat(3,30%);
+    margin-top: 10px;
+    
+}
+.page3{
+    margin-top: 20px;
+   width: 50%;
+   height: 20%;
+   border-radius: 05px;
+   border-color: gray;
+    background-color: antiquewhite;
+}
+
+
+
+
+
+    
+   
+  
+ 
+ 

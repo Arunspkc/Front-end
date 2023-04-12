@@ -1,0 +1,142 @@
+.nav{
+    display: grid;
+    grid-template-columns: 10% 70% 20%;
+    
+}
+.pg1{
+    margin-top: 30px;
+}
+
+.pg3 button{
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+    color: white;
+}
+.pg3 button:hover{
+    background-color: greenyellow;
+}
+.pg3 i{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 05px;
+}
+#view{
+    display: grid;
+    grid-template-columns: 90% 10%;
+    box-shadow: 0px 0px 5px gray;
+    padding: 10px;
+    
+    
+    
+}
+#view h4{
+    margin-left: 10px;
+    
+}
+#view button{
+    width: 90px;
+    height: 30px;
+    border-radius: 05px;
+    border-color: aquamarine;
+    margin-top: 10px;
+}
+#med{
+    display: flex;
+    justify-content: space-around;
+}
+.Case {
+    display: flex;
+    align-items: center; 
+    gap: 30px;
+    
+}
+.Case i{
+    background-color: orange;
+    font-size: 40px;
+    color: white;
+    padding: 10px;
+    border-radius: 05px;
+   
+}
+.Invested{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.Invested i{
+    background-color: orange;
+   font-size: 40px;
+    color: white;
+    padding: 10px;
+    border-radius: 05px;
+    
+}
+.Capital{
+    display: flex;
+    align-items: center;
+    gap: 30%;
+}
+.Capital i{
+    background-color: orange;
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 05px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 0px 4px gray;
+    padding: 20px;
+}
+.btn button{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    width: 170px;
+    height: 40px;
+    
+    
+    
+}
+.cloud{
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+    /* box-shadow: 0px 0px 4px gray; */
+    border-bottom: 1px solid gray;
+    margin-top: 30px;
+   
+}
+.increase{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.help{
+    /* box-shadow: 0px 0px 4px gray; */
+    margin-top: 0px;
+    border-bottom: 1px solid gray;
+}
+.help p{
+    padding-top: 50px;
+    color: gray;
+}
+.total{
+ display: grid;
+ grid-template-columns: 80% 20%;
+ 
+    
+
+
+}
+.total h3{
+    margin: 5px;
+}
+#final{
+    width: 50%;
+    box-shadow: 0px 0px 3px gray;
+    
+}
